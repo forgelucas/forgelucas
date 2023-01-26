@@ -22,6 +22,7 @@ I'm a 19 years old developer and studying programming since 2020. I'M currently 
 
 <a target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg" width="36" height="36" alt="JAVA" /></a>
 <a target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/mysql.svg" width="36" height="36" alt="MYSQL" /></a>
+<a target="_blank" rel="noreferrer"><img src="https://github.com/hugovk/python-logos/blob/main/img/Python.png" width="36" height="36" alt="PYTHON" /></a>
 
 
 
