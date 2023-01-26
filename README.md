@@ -21,6 +21,9 @@ I'm a 19 years old developer and studying programming since 2020. I'M currently 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 
 <a target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg" width="36" height="36" alt="JAVA" /></a>
+<a target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/mysql.svg" width="36" height="36" alt="MYSQL" /></a>
+
+
 
 
 ### Socials
