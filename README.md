@@ -20,7 +20,7 @@ I'm a 19 years old developer and studying programming since 2020. I'M currently 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 
-<a target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogospng.org%2Flogo-java%2F&psig=AOvVaw0iuo1NFfqgXY3qNIOA-FLD&ust=1674824587788000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJju5_Wl5fwCFQAAAAAdAAAAABAE" width="36" height="36" alt="HTML5" /></a>
+<a target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/java.svg" width="36" height="36" alt="JAVA" /></a>
 
 
 ### Socials
