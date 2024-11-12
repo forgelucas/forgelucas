@@ -4,7 +4,7 @@ My name is Lucas Forge
 Full Stack Software Developer
 -----------------------------
 
-I'm a 19 years old developer and studying programming since 2020. I'M currently studying computer science at the University of Industrial Engineering (FEI)
+I'm a 21 years old developer and studying programming since 2020. I'M currently studying computer science at the University of Industrial Engineering (FEI)
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [lucasforge1209@gmail.com](mailto:lucasforge1209@gmail.com)
