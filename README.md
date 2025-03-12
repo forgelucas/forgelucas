@@ -1,4 +1,4 @@
-# Lucas Forge 
+# Lucas Forge Freo
 
 **`Computer scientist and software developer`**
 
