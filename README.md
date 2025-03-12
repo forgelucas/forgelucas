@@ -15,7 +15,7 @@
 
 - 🌎 I speak English and Portuguese;
   
----
+
 
 ### 🧰 Languages and Tools
 
