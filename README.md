@@ -2,6 +2,19 @@
 
 **`Computer scientist and software developer`**
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+### Welcome to my github!
+<p>
+  I'm Lucas Forge, a brazilian computer scientist 💻.
+</p>
+
+### About me
+
+- 👨‍🎓 I'm a Computer Science by [Centro Universitário FEI](https://portal.fei.edu.br/)
+
+- 🌎 I speak English and Portuguese;
+  
 ---
 
 ### 🧰 Languages and Tools
@@ -21,10 +34,11 @@
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forgelucas&show_icons=true&theme=gruvbox)
 
 ---
+### 📊 Most Usage Languages
 
  <p><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=forgelucas&layout=compact&langs_count=20&hide_border=true&theme=radical" alt="Kenzo's github stats"/> </a></p>
