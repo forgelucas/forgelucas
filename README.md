@@ -27,4 +27,4 @@
 
 ---
 
- <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=forgelucas&layout=compact&langs_count=20&hide_border=true&theme=radical" alt="Kenzo's github stats"/> </a></p>
+ <p><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=forgelucas&layout=compact&langs_count=20&hide_border=true&theme=radical" alt="Kenzo's github stats"/> </a></p>
